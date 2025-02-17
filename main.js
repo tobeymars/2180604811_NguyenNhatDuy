@@ -1,3 +1,4 @@
+// Nguyễn Nhất Duy - 2180604811
 // Khai báo kiểu dữ liệu Student
 class Student {
     constructor(name, age, score1, score2) {
